@@ -1,0 +1,19 @@
+Additional information for the condition Navigtion:
+
+In dieser Fahrt ergänzt eine Linie auf der Straße die Navigation und Sie bekommen oben Links Ihre Geschwindigkeit angezeigt.
+
+
+Additional information for the condition Navigation+Warning:
+
+In dieser Fahrt ergänzt eine Linie auf der Straße die Navigation und Sie bekommen oben Links Ihre Geschwindigkeit angezeigt. Zusätzlich kann in bestimmten Situationen eine rote Barriere um Passanten erscheinen – diese warnt Sie, wenn Sie sich einer Person zu stark nähern.
+
+
+
+The used balanced Latin square:
+
+1	2	3	4	5	6
+2	3	4	5	6	1
+3	4	5	6	1	2
+4	5	6	1	2	3
+5	6	1	2	3	4
+6	1	2	3	4	5
