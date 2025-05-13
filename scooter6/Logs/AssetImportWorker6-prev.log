@@ -1,0 +1,236 @@
+Using pre-set license
+Built from '6000.1/staging' branch; Version is '6000.1.1f1 (7197418f847b) revision 7444289'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'de' Physical Memory: 16319 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+Date: 2025-05-13T00:40:12Z
+
+COMMAND LINE ARGUMENTS:
+H:\Unity\6000.1.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+U:/Masterarbeit/Software/ARide/scooter6
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+60924
+-job-worker-count
+3
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: U:/Masterarbeit/Software/ARide/scooter6
+U:/Masterarbeit/Software/ARide/scooter6
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [14316]  Target information:
+
+Player connection [14316]  * "[IP] 169.254.106.175 [Port] 0 [Flags] 2 [Guid] 4086968740 [EditorId] 4086968740 [Version] 1048832 [Id] WindowsEditor(7,Marcel-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [14316]  * "[IP] 25.27.133.237 [Port] 0 [Flags] 2 [Guid] 4086968740 [EditorId] 4086968740 [Version] 1048832 [Id] WindowsEditor(7,Marcel-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [14316]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 4086968740 [EditorId] 4086968740 [Version] 1048832 [Id] WindowsEditor(7,Marcel-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [14316]  * "[IP] 192.168.99.1 [Port] 0 [Flags] 2 [Guid] 4086968740 [EditorId] 4086968740 [Version] 1048832 [Id] WindowsEditor(7,Marcel-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [14316]  * "[IP] 192.168.0.14 [Port] 0 [Flags] 2 [Guid] 4086968740 [EditorId] 4086968740 [Version] 1048832 [Id] WindowsEditor(7,Marcel-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [14316] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [14316] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 3
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 476.54 ms, found 23 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.1.1f1 (7197418f847b)
+[Subsystems] Discovering subsystems at path H:/Unity/6000.1.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path U:/Masterarbeit/Software/ARide/scooter6/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:          NVIDIA
+    VRAM:            4030 MB
+    App VRAM Budget: 3426 MB
+    Driver:          32.0.15.6094
+Initialize mono
+Mono path[0] = 'H:/Unity/6000.1.1f1/Editor/Data/Managed'
+Mono path[1] = 'H:/Unity/6000.1.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'H:/Unity/6000.1.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56608
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: H:/Unity/6000.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003342 seconds.
+- Loaded All Assemblies, in  3.799 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.300 seconds
+Domain Reload Profiling: 7100ms
+	BeginReloadAssembly (1734ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (277ms)
+	RebuildNativeTypeToScriptingClass (56ms)
+	initialDomainReloadingComplete (243ms)
+	LoadAllAssembliesAndSetupDomain (1488ms)
+		LoadAssemblies (1744ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1466ms)
+			TypeCache.Refresh (1456ms)
+				TypeCache.ScanAssembly (1351ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (3303ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2916ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (590ms)
+			SetLoadedEditorAssemblies (16ms)
+			BeforeProcessingInitializeOnLoad (526ms)
+			ProcessInitializeOnLoadAttributes (1409ms)
+			ProcessInitializeOnLoadMethodAttributes (374ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+Couldn't extract exception string from exception of type OutOfMemoryException (another exception of class 'OutOfMemoryException' was thrown while processing the stack trace)
+
+=================================================================
+	Native Crash Reporting
+=================================================================
+Got a UNKNOWN while executing native code. This usually indicates
+a fatal error in the mono runtime or one of the native libraries 
+used by your application.
+=================================================================
+
+=================================================================
+	Managed Stacktrace:
+=================================================================
+=================================================================
+Crash!!!
+  ERROR: SymInitialize, GetLastError: 'Zur Verarbeitung dieses Befehls sind nicht genügend Speicherressourcen verfügbar.' (Address: 0000000000000000)
+  ERROR: SymGetSearchPath, GetLastError: 'Das Handle ist ungültig.' (Address: 0000000000000000)
+SymInit: Symbol-SearchPath: '', symOptions: 534, UserName: 'Michael'
+OS-Version: 10.0.0
+
+========== OUTPUTTING STACK TRACE ==================
+
+  ERROR: SymInitialize, GetLastError: 'Zur Verarbeitung dieses Befehls sind nicht genügend Speicherressourcen verfügbar.' (Address: 0000000000000000)
+  ERROR: SymGetSearchPath, GetLastError: 'Das Handle ist ungültig.' (Address: 0000000000000000)
+SymInit: Symbol-SearchPath: '', symOptions: 534, UserName: 'Michael'
+OS-Version: 10.0.0
+  ERROR: SymInitialize, GetLastError: 'Zur Verarbeitung dieses Befehls sind nicht genügend Speicherressourcen verfügbar.' (Address: 0000000000000000)
+  ERROR: SymGetSearchPath, GetLastError: 'Das Handle ist ungültig.' (Address: 0000000000000000)
+SymInit: Symbol-SearchPath: '', symOptions: 534, UserName: 'Michael'
+OS-Version: 10.0.0
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFDB47DE18F)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFDB47DE18F)
+0x00007FFDB47DE18F ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFDB599072F)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFDB599072F)
+0x00007FFDB599072F ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFDB598FE5D)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFDB598FE5D)
+0x00007FFDB598FE5D ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFDB40A31C9)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFDB40A31C9)
+0x00007FFDB40A31C9 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFDB40A2EDF)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFDB40A2EDF)
+0x00007FFDB40A2EDF ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFDB40A29A1)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFDB40A29A1)
+0x00007FFDB40A29A1 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFDB409E045)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFDB409E045)
+0x00007FFDB409E045 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFDB4211FC3)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFDB4211FC3)
+0x00007FFDB4211FC3 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFDB52A758C)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFDB52A758C)
+0x00007FFDB52A758C ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFDB52A3978)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFDB52A3978)
+0x00007FFDB52A3978 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFDB52A6840)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFDB52A6840)
+0x00007FFDB52A6840 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFDB56CE1C1)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFDB56CE1C1)
+0x00007FFDB56CE1C1 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFDB55A9DD4)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFDB55A9DD4)
+0x00007FFDB55A9DD4 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFDB4E16B63)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFDB4E16B63)
+0x00007FFDB4E16B63 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFDB53FC013)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFDB53FC013)
+0x00007FFDB53FC013 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FF6B3C82F2A)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FF6B3C82F2A)
+0x00007FF6B3C82F2A ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFE6C037374)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFE6C037374)
+0x00007FFE6C037374 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das Handle ist ungültig.' (Address: 00007FFE6DADCC91)
+  ERROR: SymGetModuleInfo64, GetLastError: 'Eine DLL-Initialisierungsroutine ist fehlgeschlagen.' (Address: 00007FFE6DADCC91)
+0x00007FFE6DADCC91 ((<unknown>)) (function-name not available)
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/Michael/AppData/Local/Temp/Unity/Editor/Crashes

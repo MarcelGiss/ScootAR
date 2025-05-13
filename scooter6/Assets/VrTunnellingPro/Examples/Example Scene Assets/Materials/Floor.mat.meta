@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f74b386da77d1eb44ac25b2e76ebb7bc
+timeCreated: 1532785590
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Examples/Example Scene Assets/Materials/Floor.mat
+  uploadId: 311196

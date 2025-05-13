@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0d51e01c6e77b0841a4a24faf919d7e2
+timeCreated: 1510682257
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Prefabs/Cages/Materials/CageObject.mat
+  uploadId: 311196

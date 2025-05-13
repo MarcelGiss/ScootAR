@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff6fcede7113ca34eb037df82d0dd5e1
+timeCreated: 1511448980
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Examples/VRTP_Example.unity
+  uploadId: 311196

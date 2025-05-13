@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df8a45e8bb1a5ab42a2b8aef90d9f26c
+timeCreated: 1510951253
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Prefabs/Cages/ComfortCubesPolar.prefab
+  uploadId: 311196

@@ -1,0 +1,392 @@
+Using pre-set license
+Built from '6000.1/staging' branch; Version is '6000.1.1f1 (7197418f847b) revision 7444289'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'de' Physical Memory: 16319 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+Date: 2025-05-13T00:39:16Z
+
+COMMAND LINE ARGUMENTS:
+H:\Unity\6000.1.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+U:/Masterarbeit/Software/ARide/scooter6
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+60924
+-job-worker-count
+3
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: U:/Masterarbeit/Software/ARide/scooter6
+U:/Masterarbeit/Software/ARide/scooter6
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [22404]  Target information:
+
+Player connection [22404]  * "[IP] 169.254.106.175 [Port] 0 [Flags] 2 [Guid] 312785764 [EditorId] 312785764 [Version] 1048832 [Id] WindowsEditor(7,Marcel-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [22404]  * "[IP] 25.27.133.237 [Port] 0 [Flags] 2 [Guid] 312785764 [EditorId] 312785764 [Version] 1048832 [Id] WindowsEditor(7,Marcel-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [22404]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 312785764 [EditorId] 312785764 [Version] 1048832 [Id] WindowsEditor(7,Marcel-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [22404]  * "[IP] 192.168.99.1 [Port] 0 [Flags] 2 [Guid] 312785764 [EditorId] 312785764 [Version] 1048832 [Id] WindowsEditor(7,Marcel-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [22404]  * "[IP] 192.168.0.14 [Port] 0 [Flags] 2 [Guid] 312785764 [EditorId] 312785764 [Version] 1048832 [Id] WindowsEditor(7,Marcel-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [22404] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [22404] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 3
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 57.10 ms, found 23 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.1.1f1 (7197418f847b)
+[Subsystems] Discovering subsystems at path H:/Unity/6000.1.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path U:/Masterarbeit/Software/ARide/scooter6/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:          NVIDIA
+    VRAM:            4030 MB
+    App VRAM Budget: 3426 MB
+    Driver:          32.0.15.6094
+Initialize mono
+Mono path[0] = 'H:/Unity/6000.1.1f1/Editor/Data/Managed'
+Mono path[1] = 'H:/Unity/6000.1.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'H:/Unity/6000.1.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56264
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: H:/Unity/6000.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005610 seconds.
+- Loaded All Assemblies, in  1.045 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.822 seconds
+Domain Reload Profiling: 1867ms
+	BeginReloadAssembly (434ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (5ms)
+	RebuildCommonClasses (108ms)
+	RebuildNativeTypeToScriptingClass (27ms)
+	initialDomainReloadingComplete (105ms)
+	LoadAllAssembliesAndSetupDomain (370ms)
+		LoadAssemblies (426ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (362ms)
+			TypeCache.Refresh (359ms)
+				TypeCache.ScanAssembly (329ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (824ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (694ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (115ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (160ms)
+			ProcessInitializeOnLoadAttributes (287ms)
+			ProcessInitializeOnLoadMethodAttributes (125ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  2.926 seconds
+OnLevelWasLoaded was found on AutomaticPedestrianFinder
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+Refreshing native plugins compatible for Editor in 19.00 ms, found 23 plugins.
+OnLevelWasLoaded was found on AutomaticPedestrianFinder
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Coupled Simulator
+Refreshing native plugins compatible for Editor in 23.92 ms, found 23 plugins.
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UnityEditor.XR.Interaction.Toolkit.Analytics.XRIAnalytics..cctor () [0x00000] in .\Library\PackageCache\com.unity.xr.interaction.toolkit@9b07900cb163\Editor\Analytics\XRIAnalytics.cs:32 
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  2.945 seconds
+Domain Reload Profiling: 5854ms
+	BeginReloadAssembly (345ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (52ms)
+	RebuildCommonClasses (72ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (80ms)
+	LoadAllAssembliesAndSetupDomain (2390ms)
+		LoadAssemblies (2056ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (547ms)
+			TypeCache.Refresh (380ms)
+				TypeCache.ScanAssembly (343ms)
+			BuildScriptInfoCaches (141ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (2946ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2685ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (12ms)
+			BeforeProcessingInitializeOnLoad (397ms)
+			ProcessInitializeOnLoadAttributes (1461ms)
+			ProcessInitializeOnLoadMethodAttributes (807ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 26.42 ms, found 23 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 194 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7809 unused Assets / (5.2 MB). Loaded Objects now: 8422.
+Memory consumption went from 259.1 MB to 253.9 MB.
+Total: 23.561900 ms (FindLiveObjects: 1.131000 ms CreateObjectMapping: 1.697000 ms MarkObjects: 17.115200 ms  DeleteObjects: 3.616500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 34391.388391 seconds.
+  path: Assets/ARide/ARide/_Scenes/Scenes/BackupFertigeStudie.unity
+  artifactKey: Guid(63cb2e11eb2bfd547b562177a625fe77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARide/ARide/_Scenes/Scenes/BackupFertigeStudie.unity using Guid(63cb2e11eb2bfd547b562177a625fe77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b33c1c25133ae5acba2622041ec3732') in 0.0216007 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.707388 seconds.
+  path: Assets/ARide/ARide/_Objects/StopSign/f5e4252c5f1d_A_stop_sign__3d_ass.fbx
+  artifactKey: Guid(12ff92870327e0144814ccfe54ffee2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARide/ARide/_Objects/StopSign/f5e4252c5f1d_A_stop_sign__3d_ass.fbx using Guid(12ff92870327e0144814ccfe54ffee2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2e30aabca4bf42d96844abc3837b94af') in 0.7055654 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.281811 seconds.
+  path: Assets/ARide/ARide/_Objects/EyeTrackingPrefabs/Setting Sample.prefab
+  artifactKey: Guid(42a3952aa56de864bb0fcd6ab19ba68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARide/ARide/_Objects/EyeTrackingPrefabs/Setting Sample.prefab using Guid(42a3952aa56de864bb0fcd6ab19ba68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4e09bd88b9c05de504e7f3caa183b7e1') in 0.007625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ARide/ARide/_Objects/EyeTrackingPrefabs/SRanipal Eye Framework.prefab
+  artifactKey: Guid(f856868cefd9590429083c1201ac2ac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARide/ARide/_Objects/EyeTrackingPrefabs/SRanipal Eye Framework.prefab using Guid(f856868cefd9590429083c1201ac2ac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e1cd3baf1b358fb8620e525f00ca4d73') in 0.0066189 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.763531 seconds.
+  path: Assets/ARide/ARide/_Objects/Materials/ArrowMat.mat
+  artifactKey: Guid(43c227fd21e78074aaf81d35721b64b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARide/ARide/_Objects/Materials/ArrowMat.mat using Guid(43c227fd21e78074aaf81d35721b64b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7508e37f36e7475e684d40924d064463') in 0.0708287 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002561 seconds.
+  path: Assets/ARide/ARide/_Objects/Materials/asphalt_03_NRM.png
+  artifactKey: Guid(f9b1068150d9840428766f542c170b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARide/ARide/_Objects/Materials/asphalt_03_NRM.png using Guid(f9b1068150d9840428766f542c170b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '84dfa05e440d2b6f899c45c0d55c5c8a') in 1.7492887 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003332 seconds.
+  path: Assets/ARide/ARide/_Objects/Materials/BackupNavigationLine.mat
+  artifactKey: Guid(83fe28a904adae84ca4ab0f2fcf21575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARide/ARide/_Objects/Materials/BackupNavigationLine.mat using Guid(83fe28a904adae84ca4ab0f2fcf21575) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3adf5ecbad8f2461efe3fc21a16cdd6f') in 2.5136592 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007139 seconds.
+  path: Assets/ARide/ARide/_Objects/Materials/LineV2 3.mat
+  artifactKey: Guid(dfcccbe975990344386c1585c3a903b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARide/ARide/_Objects/Materials/LineV2 3.mat using Guid(dfcccbe975990344386c1585c3a903b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '31c6fd9fceab66371ea6f19ceeb17d8d') in 0.8431708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ARide/ARide/_Objects/Materials/BenchBase.mat
+  artifactKey: Guid(189477485f5e0b5408b0d0bb3dd7d1e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARide/ARide/_Objects/Materials/BenchBase.mat using Guid(189477485f5e0b5408b0d0bb3dd7d1e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8476c4d23bc0eab19b82b8e3bb4196c1') in 0.2018612 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004054 seconds.
+  path: Assets/ARide/ARide/_Objects/Materials/Bench_01_Wood.mat
+  artifactKey: Guid(2dfa5ecefe8ba73479ebac0f32e32a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARide/ARide/_Objects/Materials/Bench_01_Wood.mat using Guid(2dfa5ecefe8ba73479ebac0f32e32a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7d3e16c6baa6817c536199f93c5fcb4b') in 0.2076384 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005048 seconds.
+  path: Assets/ARide/ARide/_Objects/Materials/LineV1.mat
+  artifactKey: Guid(85a1514fd06b79c4a934aeebd4ff6433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARide/ARide/_Objects/Materials/LineV1.mat using Guid(85a1514fd06b79c4a934aeebd4ff6433) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader Compiler IPC Exception: Terminating shader compiler process
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.Camera:Render ()
+UnityEditor.PreviewRenderUtility:Render (bool,bool)
+UnityEditor.MaterialEditor:DoRenderPreview (UnityEditor.PreviewRenderUtility,bool)
+UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\build\output\unity\unity\Tools\UnityShaderCompiler\ShaderCompilerClient.cpp line 643]
+
+Last 50 lines from the compiler log:
+Base path: 'H:/Unity/6000.1.1f1/Editor/Data', plugins path 'H:/Unity/6000.1.1f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: compileSnippet
+  insize=2376 file=Assets/DefaultResourcesExtra/Standard.shader name=Standard pass=FORWARD ppOnly=0 stripLineD=0 buildPlatform=19 rsLen=0 pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH UNITY_PASS_FORWARDBASE uKW=_NORMALMAP _ALPHAPREMULTIPLY_ON DIRECTIONAL LIGHTPROBE_SH dKW=_EMISSION FOG_LINEAR FOG_EXP FOG_EXP2 INSTANCING_ON _DETAIL_MULX2 _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF _ALPHATEST_ON _ALPHABLEND_ON _METALLICGLOSSMAP _PARALLAXMAP SHADOWS_SHADOWMASK DYNAMICLIGHTMAP_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING DIRLIGHTMAP_COMBINED SHADOWS_SCREEN UNITY_NO_DXT5nm UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30 UNITY_UNIFIED_SHADER_PRECISION_MODEL flags=0 lang=0 type=Fragment platform=d3d11 reqs=227 mask=6 start=68 ok=1 outsize=7234
+
+Cmd: compileSnippet
+  insize=2088 file=Assets/DefaultResourcesExtra/Standard.shader name=Standard pass=FORWARD_DELTA ppOnly=0 stripLineD=0 buildPlatform=19 rsLen=0 pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH UNITY_PASS_FORWARDADD uKW=_NORMALMAP _ALPHAPREMULTIPLY_ON DIRECTIONAL dKW=FOG_LINEAR FOG_EXP FOG_EXP2 _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A _SPECULARHIGHLIGHTS_OFF _DETAIL_MULX2 _ALPHATEST_ON _ALPHABLEND_ON _METALLICGLOSSMAP _PARALLAXMAP POINT SPOT POINT_COOKIE DIRECTIONAL_COOKIE SHADOWS_SHADOWMASK LIGHTMAP_SHADOW_MIXING SHADOWS_DEPTH SHADOWS_SOFT SHADOWS_SCREEN SHADOWS_CUBE UNITY_NO_DXT5nm UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30 UNITY_UNIFIED_SHADER_PRECISION_MODEL flags=0 lang=0 type=Fragment platform=d3d11 reqs=227 mask=6 start=106 ok=1 outsize=3858
+
+Cmd: compileSnippet
+  insize=1624 file=Assets/DefaultResourcesExtra/Particle Standard Surface.shader name=Particles/Standard Surface pass=ShadowCaster ppOnly=0 stripLineD=0 buildPlatform=19 rsLen=0 pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH UNITY_PASS_SHADOWCASTER uKW=PROCEDURAL_INSTANCING_ON _ALPHAPREMULTIPLY_ON SHADOWS_DEPTH dKW=INSTANCING_ON _ALPHATEST_ON _ALPHABLEND_ON _ALPHAMODULATE_ON _REQUIRE_UV2 SHADOWS_CUBE UNITY_NO_DXT5nm UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30 UNITY_UNIFIED_SHADER_PRECISION_MODEL flags=0 lang=0 type=Vertex platform=d3d11 reqs=16611 mask=6 start=71 ok=1 outsize=2802
+
+Cmd: compileSnippet
+  insize=1624 file=Assets/DefaultResourcesExtra/Particle Standard Surface.shader name=Particles/Standard Surface pass=ShadowCaster ppOnly=0 stripLineD=0 buildPlatform=19 rsLen=0 pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH UNITY_PASS_SHADOWCASTER uKW=PROCEDURAL_INSTANCING_ON _ALPHAPREMULTIPLY_ON SHADOWS_DEPTH dKW=INSTANCING_ON _METALLICGLOSSMAP _ALPHATEST_ON _ALPHABLEND_ON _ALPHAMODULATE_ON _REQUIRE_UV2 SHADOWS_CUBE UNITY_NO_DXT5nm UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30 UNITY_UNIFIED_SHADER_PRECISION_MODEL flags=0 lang=0 type=Fragment platform=d3d11 reqs=16611 mask=6 start=71 ok=1 outsize=798
+
+Cmd: compileSnippet
+  insize=41677963 file=Assets/DefaultResourcesExtra/Particle Standard Surface.shader name=Particles/Standard Surface pass=FORWARD ppOnly=0 stripLineD=0 buildPlatform=19 rsLen=0 pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH UNITY_PASS_FORWARDBASE uKW=_FADING_ON DIRECTIONAL LIGHTPROBE_SH dKW=SOFTPARTICLES_ON SHADOWS_SHADOWMASK INSTANCING_ON PROCEDURAL_INSTANCING_ON FOG_LINEAR FOG_EXP FOG_EXP2 _NORMALMAP _REQUIRE_UV2 EFFECT_BUMP SHADOWS_SCREEN LIGHTMAP_SHADOW_MIXING VERTEXLIGHT_ON UNITY_NO_DXT5nm UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30 UNITY_UNIFIED_SHADER_PRECISION_MODEL flags=0 lang=0 type=Vertex platform=d3d11 reqs=227 mask=6 start=154 ok=1 outsize=2050
+
+Cmd: compileSnippet
+  insize=41677963 file=Assets/DefaultResourcesExtra/Particle Standard Surface.shader name=Particles/Standard Surface pass=FORWARD ppOnly=0 stripLineD=0 buildPlatform=19 rsLen=0 pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH UNITY_PASS_FORWARDBASE uKW=_ALPHAPREMULTIPLY_ON _FADING_ON DIRECTIONAL LIGHTPROBE_SH dKW=_EMISSION SOFTPARTICLES_ON SHADOWS_SHADOWMASK INSTANCING_ON PROCEDURAL_INSTANCING_ON FOG_LINEAR FOG_EXP FOG_EXP2 _ALPHATEST_ON _ALPHABLEND_ON _ALPHAMODULATE_ON _METALLICGLOSSMAP _NORMALMAP _REQUIRE_UV2 EFFECT_BUMP SHADOWS_SCREEN LIGHTMAP_SHADOW_MIXING UNITY_NO_DXT5nm UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30 UNITY_UNIFIED_SHADER_PRECISION_MODEL flags=0 lang=0 type=Fragment platform=d3d11 reqs=227 mask=6 start=1543221225477
+Crashed!
+=======================================
+Stacktrace is not supported on this platform.
+=======================================
+
+Shader compiler: Compile Particles/Standard Surface - FORWARD, Fragment Program: Internal error communicating with the shader compiler process.  Please report a bug including this shader and the editor log. Error code 0x80000004 (Not connected).
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.Camera:Render ()
+UnityEditor.PreviewRenderUtility:Render (bool,bool)
+UnityEditor.MaterialEditor:DoRenderPreview (UnityEditor.PreviewRenderUtility,bool)
+UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\build\output\unity\unity\Tools\UnityShaderCompiler\ShaderCompilerClient.cpp line 761]
+
+Thread: 22404
+Exception: Protocol error - failed to read magic number (data transferred 0/4)
+Platform: d3d11 
+Keywords: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH UNITY_PASS_FORWARDBASE 
+
+Shader error in 'Particles/Standard Surface': Internal error communicating with the shader compiler process.  Please report a bug including this shader and the editor log. Error code 0x80000004 (Not connected).
+ -> (artifact id: 'fed0c8d305c303eda07e0a89fe0d7702') in 13.6170866 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/ARide/ARide/_Objects/Materials/LineV5.mat
+  artifactKey: Guid(7c625a90c8e6a8d4895a14fad1cb8d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARide/ARide/_Objects/Materials/LineV5.mat using Guid(7c625a90c8e6a8d4895a14fad1cb8d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 22404, restarting
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+ -> (artifact id: 'a5db250b3e9ed4cad602ab97be3ab5c0') in 9.7739666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.254449 seconds.
+  path: Assets/SpeedometerHatchback.mat
+  artifactKey: Guid(f2f1b4007a15e0c44827fed94d05bf37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedometerHatchback.mat using Guid(f2f1b4007a15e0c44827fed94d05bf37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe7b6e1c721088ca22ae66156ea88d81') in 1.0994353 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+

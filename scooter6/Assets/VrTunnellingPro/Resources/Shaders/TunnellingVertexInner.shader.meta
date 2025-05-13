@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d6e484e4a83aaf34ca4f8f8a2dc7c484
+timeCreated: 1546470621
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Resources/Shaders/TunnellingVertexInner.shader
+  uploadId: 311196

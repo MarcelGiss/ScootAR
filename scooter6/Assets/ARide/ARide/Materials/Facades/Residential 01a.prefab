@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5860166771543422416
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3733103006572071334}
+  - component: {fileID: 8535145007362806621}
+  m_Layer: 0
+  m_Name: Residential 01a
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3733103006572071334
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5860166771543422416}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8535145007362806621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5860166771543422416}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 239095726, guid: 8c33fffcd70c4fb418e419a2cfc77ab5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  facadeMaterial: {fileID: 2100000, guid: 4f15c55e805c67e43b17484cd450dfa9, type: 2}
+  facadeMaterialSimple: {fileID: 2100000, guid: 414b2a9c2fd5003439df62a55b7fa5d9,
+    type: 2}
+  facadeSize: 3
+  roofMaterial: {fileID: 2100000, guid: e3840edef5d6cdd41a8d93962f3ae170, type: 2}
+  facadeGroups:
+  - Wall
+  - Door
+  - Regular Window
+  - Large Window
+  - Drainpipe
+  - Gutter
+  - Fascia
+  facadeTextures: 00000000010000000100000001000000020000000300000004000000040000000500000005000000050000000500000006000000060000000600000006000000
+  facadeAtlas: 4
+  segmentSize: 0.75

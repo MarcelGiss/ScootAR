@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1f66a49f26dc3514a81d0d5abc5f0388
+timeCreated: 1510584121
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Resources/Shaders/SeparableBlur.shader
+  uploadId: 311196

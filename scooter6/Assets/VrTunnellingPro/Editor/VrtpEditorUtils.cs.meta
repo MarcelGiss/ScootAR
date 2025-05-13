@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ef7438afa095dea40ad13868ce6a3788
+timeCreated: 1513000113
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Editor/VrtpEditorUtils.cs
+  uploadId: 311196

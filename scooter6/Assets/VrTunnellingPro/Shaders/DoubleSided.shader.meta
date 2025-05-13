@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1ff8e4c40966a7e4c9e1b603d6675d91
+timeCreated: 1512731938
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Shaders/DoubleSided.shader
+  uploadId: 311196

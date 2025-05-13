@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 65ac5742179ba704b87950ad24218916
+timeCreated: 1510682573
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Examples/Example Scene Assets/Materials/VRTP_ExampleGroundMat.mat
+  uploadId: 311196

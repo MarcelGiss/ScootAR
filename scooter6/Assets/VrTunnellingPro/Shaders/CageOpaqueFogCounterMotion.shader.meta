@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8d17e586a89d7f24a8d4769a778d04e9
+timeCreated: 1510670182
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Shaders/CageOpaqueFogCounterMotion.shader
+  uploadId: 311196

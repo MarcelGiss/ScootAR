@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3360ec8411047241b3cbc80895d8bd4
+timeCreated: 1511123186
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Examples/ExamplePreset_Mask.asset
+  uploadId: 311196

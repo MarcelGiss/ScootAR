@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 770d4288435db7c45b6e9dab10d955b2
+timeCreated: 1510668895
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Shaders/CageOpaque.shader
+  uploadId: 311196

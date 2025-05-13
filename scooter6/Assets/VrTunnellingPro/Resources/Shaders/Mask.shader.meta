@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 40011b1e32af29e468caa4403c00f07f
+timeCreated: 1509287339
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Resources/Shaders/Mask.shader
+  uploadId: 311196

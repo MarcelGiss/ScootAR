@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 166794282a57f6e43881d49dcbebf5ca
+timeCreated: 1511123186
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Examples/ExamplePreset_Skybox.asset
+  uploadId: 311196

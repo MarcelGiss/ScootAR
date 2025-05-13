@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9c4dd1669cf624d46889cac130aa310a
+timeCreated: 1510670182
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Shaders/CageTransparentFog.shader
+  uploadId: 311196

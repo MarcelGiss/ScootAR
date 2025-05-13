@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 93bc7b6873ce171408953752066754ae
+timeCreated: 1511123186
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Examples/ExamplePreset_Window.asset
+  uploadId: 311196

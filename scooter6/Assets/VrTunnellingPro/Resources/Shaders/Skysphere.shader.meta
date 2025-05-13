@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1569c62cc89a7094fb26b71f71c4de90
+timeCreated: 1510580059
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Resources/Shaders/Skysphere.shader
+  uploadId: 311196

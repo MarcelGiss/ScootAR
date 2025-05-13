@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 41a13663091ba284d9ac9d4c68d1421b
+timeCreated: 1510679084
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Shaders/CageFog.cginc
+  uploadId: 311196

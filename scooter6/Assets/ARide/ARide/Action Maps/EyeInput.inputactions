@@ -1,0 +1,82 @@
+{
+    "name": "EyeInput",
+    "maps": [
+        {
+            "name": "EyeAction",
+            "id": "5c2f0699-de7d-4c47-9a97-f8ec7263714f",
+            "actions": [
+                {
+                    "name": "eyePose",
+                    "type": "PassThrough",
+                    "id": "8fc7dc4c-5f71-40b2-905a-0654eec998b7",
+                    "expectedControlType": "Pose",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "60113680-5a43-493d-bcec-cb4ccabba7e6",
+                    "path": "<EyeGaze>/pose",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "eyePose",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "UltimateTracker",
+            "id": "155c9990-3222-4fa2-b1cd-5b6c354d1b80",
+            "actions": [
+                {
+                    "name": "UltimateTracker_Position",
+                    "type": "Value",
+                    "id": "57e40627-90c3-42ab-a4e5-eb49cd6b52b3",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "UltimateTracker_Rotation",
+                    "type": "Value",
+                    "id": "a2a65797-000b-41b1-816a-162028eeb5ac",
+                    "expectedControlType": "Quaternion",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "98ef1152-454d-40d4-ac86-3e483a823104",
+                    "path": "<XRViveTracker>{Chest}/{DevicePosition}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "UltimateTracker_Position",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e56cab78-1146-43a1-8f03-b02dbbd38b2d",
+                    "path": "<XRViveTracker>{Chest}/deviceRotation",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "UltimateTracker_Rotation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

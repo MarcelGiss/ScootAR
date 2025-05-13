@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b726e0b394d370e499d36bdb9d05e467
+timeCreated: 1510951392
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106782
+  packageName: VR Tunnelling Pro
+  packageVersion: 1.2
+  assetPath: Assets/VrTunnellingPro/Prefabs/Cages/VehicleCage.prefab
+  uploadId: 311196
